@@ -1,4 +1,4 @@
-# GoBarber ✂️
+# GoBarber V2 ✂️
 
 ## Rodando o projeto
 
